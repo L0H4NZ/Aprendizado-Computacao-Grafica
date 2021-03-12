@@ -1,0 +1,6 @@
+INDEX VERSION 1.130+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\.metadata\.plugins\org.eclipse.jdt.core
+1472404771.index
+668529710.index
+2920725504.index
+4066071390.index
+841811440.index

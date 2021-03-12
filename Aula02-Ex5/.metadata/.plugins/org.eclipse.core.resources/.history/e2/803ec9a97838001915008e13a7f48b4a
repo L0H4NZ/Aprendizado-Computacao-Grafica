@@ -1,0 +1,149 @@
+package desenho;
+
+import java.awt.Color;
+import java.awt.Canvas;
+import java.awt.Dimension;
+import java.awt.Graphics;
+
+import javax.swing.JFrame;
+
+public class Quadrados_Girando extends Canvas {
+	private static final long serialVersionUID = 1L;
+
+	int maxX, maxY, minMaxXY, xCenter, yCenter;
+
+	void initgr() {
+		Dimension d = getSize();
+		maxX = d.width - 1;
+		maxY = d.height - 1;
+		minMaxXY = Math.min(maxX, maxY);
+		xCenter = maxX / 2;
+		yCenter = maxY / 2;
+	}
+
+	int iX(float x) {
+		return Math.round(x);
+	}
+
+	int iY(float y) {
+		return maxY - Math.round(y);
+	}
+	@Override
+	public void paint(Graphics g) {
+		super.paint(g);
+		initgr();
+		float  	xA, yA, xB, yB, xC, yD, xD,
+				yC, xA1, yA1, xB1, yB1, xC1, yC1, xD1, yD1, p, q;
+		int[] [] XA;
+		int[] [] YA;
+		int[] [] XB;
+		int[] [] YB;
+		int[] [] XC;
+		int[] [] YC;
+		int[] [] XD;
+		int[] [] YD;
+		int valor_1 = 0, valor_2 = 0, valor_3 = 0, valor_4 = 0, valor_5 = 0, valor_6 = 0, valor_7 = 0, valor_8 = 0;
+		
+		XA = new int[8][8];
+		YA = new int[8][8];
+		XB = new int[8][8];
+		YB = new int[8][8];
+		XC = new int[8][8];
+		YC = new int[8][8];
+		XD = new int[8][8];
+		YD = new int[8][8];
+		
+		q = 0.05F;
+		p = 1 - q;
+		xA = xCenter - 160; 
+		yA = yCenter - 160; 
+		xB = xCenter - 160; 
+		yB = yCenter + 160;
+		xC = xCenter + 160;
+		yC = yCenter + 160; 
+		xD = xCenter + 160;
+		yD = yCenter - 160;
+
+		g.drawLine(iX(xA), iY(yA), iX(xB), iY(yB));
+		g.drawLine(iX(xB), iY(yB), iX(xC), iY(yC));
+		g.drawLine(iX(xC), iY(yC), iX(xD), iY(yD));
+		g.drawLine(iX(xD), iY(yD), iX(xA), iY(yA));
+		
+		
+		
+		
+		for(int i = 0; i < 8; i++) {
+			
+			
+			for(int j = 0; j < 8; j++) {
+				XA[i][j] = 131 + valor_1;
+				valor_1 = XA[i][j];
+				YA[i][j] = 300 + valor_2; 
+				valor_2 = YA[i][j];
+				XB[i][j] = 131 + valor_3; 
+				valor_3 = XB[i][j];
+				YB[i][j] = 340 + valor_4;
+				valor_4 = YB[i][j];
+				XC[i][j] = 171 + valor_5;
+				valor_5 = XC[i][j];
+				YC[i][j] = 340 + valor_6;
+				valor_6 = YC[i][j];
+				XD[i][j] = 171 + valor_7;
+				valor_7 = XD[i][j];
+				YD[i][j] = 300 + valor_8;
+				valor_8 = YD[i][j];
+				
+				setBackground(Color.white);
+				g.setColor(Color.black);
+				
+				g.drawLine((XA[i][j]), (YA[i][j]), (XB[i][j]), (YB[i][j]));
+				g.drawLine((XB[i][j]), (YB[i][j]), (XC[i][j]), (YC[i][j]));
+				g.drawLine((XC[i][j]), (YC[i][j]), (XD[i][j]), (YD[i][j]));
+				g.drawLine((XD[i][j]), (YD[i][j]), (XA[i][j]), (YA[i][j]));
+				
+				System.out.println(j);
+				
+			}
+			
+		}
+		
+		
+		
+	/*	for (int i = 0; i < 50; i++) {
+			g.drawLine(iX(xA), iY(yA), iX(xB), iY(yB));
+			g.drawLine(iX(xB), iY(yB), iX(xC), iY(yC));
+			g.drawLine(iX(xC), iY(yC), iX(xD), iY(yD));
+			g.drawLine(iX(xD), iY(yD), iX(xA), iY(yA));
+			xA1 = p * xA + q * xB;
+			yA1 = p * yA + q * yB;
+			xB1 = p * xB + q * xC;
+			yB1 = p * yB + q * yC;
+			xC1 = p * xC + q * xD;
+			yC1 = p * yC + q * yD;
+			xD1 = p * xD + q * xA;
+			yD1 = p * yD + q * yA;
+			xA = xA1;
+			xB = xB1;
+			xC = xC1;
+			xD = xD1;
+			yA = yA1;
+			yB = yB1;
+			yC = yC1;
+			yD = yD1;
+			
+		}*/
+	}
+	
+	public static void main(String[] args) {
+		JFrame frame = new JFrame("50 Quadrados");
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.setSize(600, 400);
+		frame.add("Center", new Quadrados_Girando());
+		frame.add(new Quadrados_Girando());
+		frame.setVisible(true);
+		
+		
+	}
+}
+
+

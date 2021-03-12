@@ -1,0 +1,27 @@
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\Editor3D\Editor3D\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\Editor3D\Editor3D\obj\x86\Debug\Editor3D.Properties.Resources.resources
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\Editor3D\Editor3D\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\Editor3D\Editor3D\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\Editor3D\Editor3D\bin\Debug\Editor3D.exe
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\Editor3D\Editor3D\bin\Debug\Editor3D.pdb
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\Editor3D\Editor3D\obj\x86\Debug\Editor3D.exe
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\Editor3D\Editor3D\obj\x86\Debug\Editor3D.pdb
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\Editor3D\Editor3D\obj\x86\Debug\Editor3D.Form1.resources
+C:\Users\User\Documents\Trabalhos faculdade\Computacao Grafica\VT2\Editor3D\Editor3D\bin\Debug\Editor3D.exe
+C:\Users\User\Documents\Trabalhos faculdade\Computacao Grafica\VT2\Editor3D\Editor3D\bin\Debug\Editor3D.pdb
+C:\Users\User\Documents\Trabalhos faculdade\Computacao Grafica\VT2\Editor3D\Editor3D\obj\x86\Debug\Editor3D.csprojAssemblyReference.cache
+C:\Users\User\Documents\Trabalhos faculdade\Computacao Grafica\VT2\Editor3D\Editor3D\obj\x86\Debug\Editor3D.Form1.resources
+C:\Users\User\Documents\Trabalhos faculdade\Computacao Grafica\VT2\Editor3D\Editor3D\obj\x86\Debug\Editor3D.Properties.Resources.resources
+C:\Users\User\Documents\Trabalhos faculdade\Computacao Grafica\VT2\Editor3D\Editor3D\obj\x86\Debug\Editor3D.csproj.GenerateResource.cache
+C:\Users\User\Documents\Trabalhos faculdade\Computacao Grafica\VT2\Editor3D\Editor3D\obj\x86\Debug\Editor3D.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Trabalhos faculdade\Computacao Grafica\VT2\Editor3D\Editor3D\obj\x86\Debug\Editor3D.exe
+C:\Users\User\Documents\Trabalhos faculdade\Computacao Grafica\VT2\Editor3D\Editor3D\obj\x86\Debug\Editor3D.pdb
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\V2_Editor_Grafico - Lohan\Editor3D\bin\Debug\Editor3D.exe
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\V2_Editor_Grafico - Lohan\Editor3D\bin\Debug\Editor3D.pdb
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\V2_Editor_Grafico - Lohan\Editor3D\obj\x86\Debug\Editor3D.csprojAssemblyReference.cache
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\V2_Editor_Grafico - Lohan\Editor3D\obj\x86\Debug\Editor3D.Form1.resources
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\V2_Editor_Grafico - Lohan\Editor3D\obj\x86\Debug\Editor3D.Properties.Resources.resources
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\V2_Editor_Grafico - Lohan\Editor3D\obj\x86\Debug\Editor3D.csproj.GenerateResource.cache
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\V2_Editor_Grafico - Lohan\Editor3D\obj\x86\Debug\Editor3D.csproj.CoreCompileInputs.cache
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\V2_Editor_Grafico - Lohan\Editor3D\obj\x86\Debug\Editor3D.exe
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\V2_Editor_Grafico - Lohan\Editor3D\obj\x86\Debug\Editor3D.pdb

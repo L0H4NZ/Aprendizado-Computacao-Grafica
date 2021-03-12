@@ -1,0 +1,18 @@
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\EditorCG\EditorCG\bin\Debug\EditorCG.exe
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\EditorCG\EditorCG\bin\Debug\EditorCG.pdb
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\EditorCG\EditorCG\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\EditorCG\EditorCG\obj\x86\Debug\EditorCG.Form1.resources
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\EditorCG\EditorCG\obj\x86\Debug\EditorCG.Properties.Resources.resources
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\EditorCG\EditorCG\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\EditorCG\EditorCG\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\EditorCG\EditorCG\obj\x86\Debug\EditorCG.exe
+c:\documents and settings\curso\meus documentos\visual studio 2010\Projects\EditorCG\EditorCG\obj\x86\Debug\EditorCG.pdb
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\EditorCG Atualizado\EditorCG\bin\Debug\EditorCG.exe
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\EditorCG Atualizado\EditorCG\bin\Debug\EditorCG.pdb
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\EditorCG Atualizado\EditorCG\obj\x86\Debug\EditorCG.csprojAssemblyReference.cache
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\EditorCG Atualizado\EditorCG\obj\x86\Debug\EditorCG.Form1.resources
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\EditorCG Atualizado\EditorCG\obj\x86\Debug\EditorCG.Properties.Resources.resources
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\EditorCG Atualizado\EditorCG\obj\x86\Debug\EditorCG.csproj.GenerateResource.cache
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\EditorCG Atualizado\EditorCG\obj\x86\Debug\EditorCG.csproj.CoreCompileInputs.cache
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\EditorCG Atualizado\EditorCG\obj\x86\Debug\EditorCG.exe
+C:\Users\lohan\Desktop\Ciência da Computação - UNITRI\5º Período\Computação Gráfica\EditorCG Atualizado\EditorCG\obj\x86\Debug\EditorCG.pdb
